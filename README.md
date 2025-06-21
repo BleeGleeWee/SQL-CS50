@@ -5,8 +5,10 @@
 ![diagram](https://github.com/user-attachments/assets/16ffed56-6078-47e9-a902-30f5ef062100)
 <h3 align= "center"> Entity-Relationship Diagram of Campus Connect </h3>
 
+
 ## Overview
 **Campus Connect** is a SQL-based event management system tailored for educational institutions. It helps track student participation in campus events, manage clubs, venues, and organizers, and collect feedback—all within a well-structured relational database.
+
 
 ## Features
 - 📊 **Student Management**: Maintain student profiles with unique roll numbers.
@@ -15,6 +17,8 @@
 - ✅ **Attendance Tracking**: Record which students attended or missed events.
 - ⭐ **Feedback System**: Allow students to rate and comment on events.
 - 📈 **Analytics Views**: Gain insights through prebuilt SQL views like top-rated events, participation stats, and club performance.
+
+
 
 ## Database Schema
 
@@ -36,10 +40,13 @@
 | `StudentParticipation` | Ranks students based on attendance count        |
 | `ClubEventCount`     | Displays number of events and avg rating per club |
 
+
+
 ## Tech Stack
 - **SQLite**: Lightweight, file-based relational database engine
 - **Mermaid.js**: For ER diagram creation
 - **Bash**: Script automation for database initialization
+
 
 ## Installation
 
