@@ -2,7 +2,7 @@
 
 # Campus Connect - Event Management Database 🎓
 
-![Database Schema](https://cdn.corenexis.com/view/?img=d/ju21/CMy1M7.png)
+![diagram](https://github.com/user-attachments/assets/16ffed56-6078-47e9-a902-30f5ef062100)
 *Entity-Relationship Diagram of Campus Connect*
 
 ## Overview
