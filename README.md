@@ -3,7 +3,7 @@
 # Campus Connect - Event Management Database 🎓
 
 ![diagram](https://github.com/user-attachments/assets/16ffed56-6078-47e9-a902-30f5ef062100)
-<p align= "center">*Entity-Relationship Diagram of Campus Connect*</p>
+<p align= "center"> *Entity-Relationship Diagram of Campus Connect* </p>
 
 ## Overview
 **Campus Connect** is a SQL-based event management system tailored for educational institutions. It helps track student participation in campus events, manage clubs, venues, and organizers, and collect feedback—all within a well-structured relational database.
