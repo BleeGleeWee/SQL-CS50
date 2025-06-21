@@ -1,4 +1,4 @@
-<h1 align = "left">
+<h3 align = "left">
 
 <p><strong>Presented by:</strong> Shyamanjali Nanda</p>
 <p><strong>GitHub:</strong> <a href="https://github.com/BleeGleeWee" target="_blank">BleeGleeWee</a></p>
@@ -7,7 +7,7 @@
 <p><strong>Recording Date:</strong> June 22, 2025</p>
 
 
-</h1>
+</h3>
 
 
 <h1 align="center"> SQL-CS50 </h1>
