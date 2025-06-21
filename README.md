@@ -1,6 +1,6 @@
 <h1 align="center"> SQL-CS50 </h1>
 
-# Campus Connect - Event Management Database 🎓
+<h1 align="center">  Campus Connect - Event Management Database 🎓 </h1>
 
 ![diagram](https://github.com/user-attachments/assets/16ffed56-6078-47e9-a902-30f5ef062100)
 <h3 align= "center"> Entity-Relationship Diagram of Campus Connect </h3>
