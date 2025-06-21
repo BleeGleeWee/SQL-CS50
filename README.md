@@ -1,4 +1,4 @@
-# SQL-CS50
+<p align = "center"> # SQL-CS50 </p>
 
 # Campus Connect - Event Management Database 🎓
 
