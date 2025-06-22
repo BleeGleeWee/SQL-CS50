@@ -1,13 +1,3 @@
-<h3 align = "left">
-
-<p><strong>Presented by:</strong> Shyamanjali Nanda</p>
-<p><strong>GitHub:</strong> <a href="https://github.com/BleeGleeWee" target="_blank">BleeGleeWee</a></p>
-<p><strong>edX Username:</strong> SN_2506_4EFV</p>
-<p><strong>Location:</strong> Bhubaneswar, India</p>
-<p><strong>Recording Date:</strong> June 22, 2025</p>
-
-
-</h3>
 
 
 <h1 align="center"> SQL-CS50 </h1>
