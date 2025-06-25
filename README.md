@@ -2,7 +2,7 @@
 # 📊 SQL-CS50: CS50's Introduction to Databases with SQL
 ---
 ## 🏅 Certificate of Completion
-I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning this certification in **June 2025**.
+I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning a certification like below in **June 2025**.
 
 ![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2)
 
