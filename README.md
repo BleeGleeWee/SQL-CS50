@@ -1,6 +1,6 @@
 
 <h1 align = "center"> 📊 SQL-CS50: CS50's Introduction to Databases with SQL</h1>
----
+
 
 > ⚠️ **Academic Honesty Disclaimer**
 
@@ -20,11 +20,11 @@ Please use this repository to:
 Let’s keep the CS50 community honest, supportive, and brilliant!  
 
 ---
-<h2 align = "center"> 🏅 Certificate of Completion
+<h2 align = "center"> 🏅 Certificate of Completion </h2>
 I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning a certification like below in **June 2025**.
 
-![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2)
-</h2>
+<img align = "center"> ![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2) </img>
+
 
 
 The course included:
