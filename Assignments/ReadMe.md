@@ -63,6 +63,4 @@ GitHub: [BleeGleeWee](https://github.com/BleeGleeWee)
 ---
 
 > “The best way to learn SQL is to *write* SQL.” – Every CS50 Student Ever
-```
 
----
