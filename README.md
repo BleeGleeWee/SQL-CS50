@@ -1,5 +1,5 @@
 
-# 📊 SQL-CS50: CS50's Introduction to Databases with SQL
+<h1 align = "center"> 📊 SQL-CS50: CS50's Introduction to Databases with SQL</h1>
 ---
 
 > ⚠️ **Academic Honesty Disclaimer**
@@ -20,10 +20,11 @@ Please use this repository to:
 Let’s keep the CS50 community honest, supportive, and brilliant!  
 
 ---
-## 🏅 Certificate of Completion
+<h2 align = "center"> 🏅 Certificate of Completion
 I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning a certification like below in **June 2025**.
 
 ![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2)
+</h2>
 
 
 The course included:
@@ -44,7 +45,7 @@ SQL-CS50/
 
 ---
 
-## 🎓 Final Project: CampusConnect
+<h2 align = "center"> 🎓 Final Project: CampusConnect </h2>
 
 **CampusConnect** is a relational database designed to manage campus events and student participation. It allows:
 
@@ -65,12 +66,7 @@ SQL-CS50/
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a CSE student passionate about data, AI, and innovative tech solutions.
-This project is part of my continuous journey in mastering databases and backend systems.
-
-📫 Connect with me: [bleegleewee](https://github.com/BleeGleeWee)
+📫Any doubts? Connect with me: [bleegleewee](https://github.com/BleeGleeWee)
 
 ---
 
