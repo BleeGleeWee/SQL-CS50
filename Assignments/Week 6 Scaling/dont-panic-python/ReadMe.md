@@ -69,9 +69,10 @@ sqlite3 dont-panic.db < reset.sql
 
 ## 👩‍💻 Author
 
-**Shyamanjali Nanda**
 GitHub: [BleeGleeWee](https://github.com/BleeGleeWee)
+
 Course: CS50’s SQL — Week 6
+
 Date: June 2025
 
 ---
