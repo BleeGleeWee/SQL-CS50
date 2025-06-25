@@ -20,5 +20,5 @@ The task involves designing a relational database schema for a fictional airline
 The ATL database models the operations of an airline system. It includes tables to manage:
 
 - `airports`: Airport names, codes, and locations
-- `flights`: Route data including origin, destination, d
+- `flights`: Route data including origin, destination.
 
