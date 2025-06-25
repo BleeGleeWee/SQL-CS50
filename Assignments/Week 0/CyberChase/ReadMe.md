@@ -38,6 +38,8 @@ Each `.sql` file contains a solution to a specific query-based task. The queries
 - Multi-table querying and JOINs
 
 ---
+> ⚠️ Please use your own copy from the course materials to run these queries.
+---
 
 ## 🗃️ Database
 
