@@ -60,7 +60,7 @@ SELECT * FROM users;
 
 Use this secure view:
 ```
-```sql
+
 SELECT * FROM public_users;
 ```
 
@@ -71,7 +71,9 @@ Which shows only public-safe fields like `username` or `signup_date`, hiding ema
 ## 👩‍💻 Author
 
 GitHub: [BleeGleeWee](https://github.com/BleeGleeWee)
+
 Course: CS50’s SQL — Week 4
+
 Date: June 2025
 
 ---
