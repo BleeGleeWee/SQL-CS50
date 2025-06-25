@@ -2,9 +2,9 @@ code # Design Document
 
 # Campus Connect DESIGN.md
 
-By Shyamanjali Nanda
+By BleeGleeWee
 
-## Video Overview: [Insert YouTube URL here]
+## Video Overview: Click here
 
 ## Scope
 
