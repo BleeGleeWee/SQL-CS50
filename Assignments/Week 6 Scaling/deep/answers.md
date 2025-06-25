@@ -1,16 +1,15 @@
-# From the Deep
+# From "The Deep"
 
-In this problem, you'll write freeform responses to the questions provided in the specification.
+In this section, we will be writing freeform responses to the provided questions.
 
-## Random Partitioning
+## Partitioning at Random
 
-Distributing the data to 3 boats may be good in terms of accessibility and having a backup on other boats in case of a possible boat data loss, but it takes up unnecessary space. Instead, it would be more economical in terms of space if each boat was in its own time zone.
+In terms of accessibility and having a backup on other boats in case of a potential boat data loss, distributing the data across three boats might be beneficial, but it takes up extra space. Rather, each boat would be in its own time zone, which would save space.
 
-## Partitioning by Hour
+## Hourly Partitioning
 
-If the data is divided into 3 fields according to time periods, each database does not need to take up more space than necessary. It can be more efficient since each database must run on its own time.
+Each database does not need to occupy more space than is required if the data is separated into three fields based on time periods. Since each database must operate on its own schedule, it may be more effective.
 
-## Partitioning by Hash Value
+## Hash Value-Based Partitioning
 
-Entering the hash value shortens database running time by searching for small hash values instead of searching for the entire date in possible date searches. We can also make the search faster by using index. However, if all hash values are given, sometimes it may be complicated to give the same hash value to the same date.
-
+By searching for small hash values rather than the full date in potential date searches, entering the hash value reduces database running time. Using an index can also speed up the search. Giving the same hash value to the same date, however, can occasionally be challenging if all hash values are provided.
