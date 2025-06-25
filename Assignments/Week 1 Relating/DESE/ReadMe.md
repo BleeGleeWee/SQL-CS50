@@ -53,8 +53,7 @@ You can explore the schema using [DB Browser for SQLite](https://sqlitebrowser.o
 ---
 
 ## 👩‍💻 Author
-
-**Shyamanjali Nanda**  
+ 
 GitHub: [BleeGleeWee](https://github.com/BleeGleeWee)  
 Course: CS50’s SQL — Week 1  
 Date: June 2025
