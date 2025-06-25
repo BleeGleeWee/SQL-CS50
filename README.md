@@ -1,6 +1,25 @@
 
 # 📊 SQL-CS50: CS50's Introduction to Databases with SQL
 ---
+
+> ⚠️ **Academic Honesty Disclaimer**
+
+This repository is shared **strictly for educational purposes**. It is intended to help others **learn from structure, approach, and design** — not to be copied or submitted as their own.
+
+CS50 has a **strict academic integrity policy**. All final projects are subject to manual review, and if your submission is found to be **plagiarized, copied, or unoriginal**, **your edX and GitHub usernames can be permanently banned from CS50**.
+
+Please use this repository to:
+- Understand how to approach the problem sets and final project
+- Learn best practices in SQL schema design and query building
+- Get inspired to build your **own original and creative final project**
+
+✅ **Do not copy-paste** any part of this repository directly  
+✅ **Always write your own code**  
+✅ **Be proud of your own learning and creativity**
+
+Let’s keep the CS50 community honest, supportive, and brilliant!  
+
+---
 ## 🏅 Certificate of Completion
 I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning a certification like below in **June 2025**.
 
