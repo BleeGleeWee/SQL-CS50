@@ -1,8 +1,8 @@
-At what type of address did the Lost Letter end up?: Residential
-At what address did the Lost Letter end up?: 2 Finnigan Street
+Where was the Lost Letter eventually delivered?
+➤ It ended up at 2 Finnigan Street, a residential property.
 
-At what type of address did the Devious Delivery end up?: Police Station 
-What were the contents of the Devious Delivery?: Duck debugger
+Where did the Devious Delivery find its final destination?
+➤ It was sent to a police station, and it contained a Duck Debugger.
 
-What are the contents of the Forgotten Gift?: Flowers
-Who has the Forgotten Gift?: Mikel
+What item was inside the Forgotten Gift?
+➤ The package contained flowers, and it is currently with Mikel.
