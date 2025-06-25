@@ -4,7 +4,8 @@
 ## 🏅 Certificate of Completion
 I have successfully completed [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) by Harvard University, earning this certification in **June 2025**.
 
-![CS50 SQL](https://github.com/user-attachments/assets/1fb20e65-2b6e-477b-858b-00e238095070)
+![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2)
+
 
 The course included:
 - ✅ 7 hands-on problem sets
