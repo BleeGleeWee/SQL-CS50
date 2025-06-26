@@ -1,7 +1,6 @@
 <p align="center">
   
-![68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67](https://github.com/user-attachments/assets/8c06c4be-b382-4a66-81c3-8728a56185b0)
-![68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67](https://github.com/user-attachments/assets/8c06c4be-b382-4a66-81c3-8728a56185b0)
+![Harvard-Logo](https://github.com/user-attachments/assets/51f1e103-7f0d-4356-ab19-18a941d0ff81)
 
 </p>
 
