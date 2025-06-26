@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://cs50.harvard.edu/sql/static/favicon.ico" width="80" alt="CS50 SQL Logo" />
+  
+![68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67](https://github.com/user-attachments/assets/8c06c4be-b382-4a66-81c3-8728a56185b0)
+![68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67](https://github.com/user-attachments/assets/8c06c4be-b382-4a66-81c3-8728a56185b0)
+
 </p>
 
-<h2 align="center">Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023</h2>
+<h2 align="center">Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2025</h2>
 
 <p align="center">
   🎓 <a href="https://cs50.harvard.edu/sql/">Course Link</a>
