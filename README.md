@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://cs50.harvard.edu/sql/static/favicon.ico" width="100" alt="CS50 SQL Logo" />
-</p>
+  <img src="[https://cs50.harvard.edu/sql/static/favicon.ico](https://camo.githubusercontent.com/15631690040284cadd933f06578af13c6bd6828e28d0192399359bbcbf389d7a/68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67)" width="100" alt="CS50 SQL Logo" />
+
 
 # Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
+
+</p>
 
 🎓 [Course Link](https://cs50.harvard.edu/sql/)  
 
