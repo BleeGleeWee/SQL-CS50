@@ -1,15 +1,14 @@
 <p align="center">
-  
-![Harvard-Logo](https://github.com/user-attachments/assets/51f1e103-7f0d-4356-ab19-18a941d0ff81)
-
+  <img src="https://camo.githubusercontent.com/15631690040284cadd933f06578af13c6bd6828e28d0192399359bbcbf389d7a/68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67" width="300" alt="CS50 SQL Banner"/>
 </p>
 
-<h2 align="center">Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2025</h2>
+<h2 align="center">Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023</h2>
 
 <p align="center">
   🎓 <a href="https://cs50.harvard.edu/sql/">Course Link</a>
 </p>
 
+---
 
 > ⚠️ **Academic Honesty Disclaimer**
 
@@ -94,9 +93,6 @@ SQL-CS50/
 
 ---
 
-
-
----
 
 <h2 align = "center"> 🎓 Final Project: CampusConnect </h2>
 
