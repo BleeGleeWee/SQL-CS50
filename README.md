@@ -61,8 +61,7 @@ SQL-CS50/
 
 ### 🕹️ Week 0
 - Cyberchase  
-- 36 Views  
-- Normals  
+- 36 Views or Normals  
 - Players  
 
 ### 🔗 Week 1
@@ -85,7 +84,8 @@ SQL-CS50/
 - Bed and Breakfast  
 
 ### 📊 Week 5
-- your.harvard
+- Snap
+- Harvard
 
 ### 📈 Week 6
 - Happy to Connect (Sentimental)  
