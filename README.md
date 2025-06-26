@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://cs50.harvard.edu/sql/static/favicon.ico" width="100" alt="CS50 SQL Logo" />
+</p>
 
-<h1 align = "center"> 📊 SQL-CS50: CS50's Introduction to Databases with SQL</h1>
+# Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
 
+🎓 [Course Link](https://cs50.harvard.edu/sql/)  
 
 > ⚠️ **Academic Honesty Disclaimer**
 
@@ -46,6 +50,46 @@ SQL-CS50/
 ├── LICENSE              # MIT License
 └── README.md            # You're here!
 ````
+
+---
+
+## 📚 Table of Contents
+
+### 🕹️ Week 0
+- Cyberchase  
+- 36 Views  
+- Normals  
+- Players  
+
+### 🔗 Week 1
+- "Packages, Please"  
+- DESE  
+- Moneyball  
+
+### 🧱 Week 2
+- ATL  
+- Happy to Connect  
+- Union Square Donuts  
+
+### 🚨 Week 3
+- Don’t Panic!  
+- Meteorite Cleaning  
+
+### 🏠 Week 4
+- Census Taker  
+- The Private Eye  
+- Bed and Breakfast  
+
+### 📊 Week 5
+- your.harvard
+
+### 📈 Week 6
+- Happy to Connect (Sentimental)  
+- Don’t Panic! (Sentimental) — Python Version
+
+---
+
+
 
 ---
 
