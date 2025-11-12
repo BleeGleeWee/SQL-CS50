@@ -35,6 +35,7 @@ I have successfully completed [CS50's Introduction to Databases with SQL](https:
 <h1 align = "center">
 
 ![image](https://github.com/user-attachments/assets/72daf473-65a9-40da-96d2-4e4c81ba16f2) 
+<img width="2112" height="1632" alt="CS50 SQL" src="https://github.com/user-attachments/assets/77b89868-a893-49e0-88f3-be43df432a48" />
 
 </h1>
 
