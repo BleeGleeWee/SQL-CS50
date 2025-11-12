@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/15631690040284cadd933f06578af13c6bd6828e28d0192399359bbcbf389d7a/68747470733a2f2f692e696d6775722e636f6d2f4a6a37343059642e706e67" width="300" alt="CS50 SQL Banner"/>
 </p>
